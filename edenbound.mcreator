@@ -222,15 +222,6 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "perfectly_generic_object_recipe"
-    },
-    {
-      "name": "Chest",
-      "type": "block",
-      "sortid": 25,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "chest"
     }
   ],
   "variable_elements": [],
@@ -241,7 +232,6 @@
       "block.edenbound.large_generic_object": "Large Generic Object",
       "itemGroup.tabedenbound_armor": "Edenbound Armor",
       "item.edenbound.perfectly_generic_armorbody": "Perfectly Generic Chestplate",
-      "block.edenbound.chest": "Chest",
       "item.edenbound.perfectly_generic_object": "Perfectly Generic Object",
       "item.edenbound.perfectly_generic_shovel": "Perfectly Generic Shovel",
       "item.edenbound.perfectly_generic_hoe": "Perfectly Generic Hoe",
