@@ -1,0 +1,12 @@
+{
+  "group": "edenbound",
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "edenbound:perfectly_generic_ore"
+  },
+  "result": {
+    "item": "edenbound:perfectly_generic_object"
+  }
+}

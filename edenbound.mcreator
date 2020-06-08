@@ -222,6 +222,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "perfectly_generic_object_recipe"
+    },
+    {
+      "name": "PerfectlyGenericOre",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "perfectly_generic_ore"
+    },
+    {
+      "name": "PerfectlyGenericOreSmelting",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "perfectly_generic_ore_smelting"
     }
   ],
   "variable_elements": [],
@@ -242,6 +260,7 @@
       "item.edenbound.perfectly_generic_armorhelmet": "Perfectly Generic Helmet",
       "itemGroup.tabedenbound_blocks": "Edenbound Blocks",
       "item.edenbound.perfectly_generic_pickaxe": "Perfectly Generic Pickaxe",
+      "block.edenbound.perfectly_generic_ore": "PerfectlyGeneric Ore",
       "item.edenbound.perfectly_generic_axe": "Perfectly Generic Axe",
       "itemGroup.tabedenbound_items": "Edenbound Items"
     }

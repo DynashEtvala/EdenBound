@@ -1,0 +1,20 @@
+{
+  "_fv": 8,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "xpReward": 0.7,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:PerfectlyGenericOre"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:PerfectlyGenericObject"
+    },
+    "name": "perfectly_generic_ore_smelting",
+    "namespace": "mod"
+  }
+}

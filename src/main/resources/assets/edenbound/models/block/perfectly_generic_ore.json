@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "edenbound:blocks/perfectlygeneric_ore",
+    "particle": "edenbound:blocks/perfectlygeneric_ore"
+  }
+}
