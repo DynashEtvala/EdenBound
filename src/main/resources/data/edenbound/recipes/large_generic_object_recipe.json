@@ -1,0 +1,26 @@
+{
+  "group": "edenbound",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "edenbound:perfectly_generic_object"
+    },
+    "1": {
+      "item": "edenbound:perfectly_generic_object"
+    },
+    "2": {
+      "item": "edenbound:perfectly_generic_object"
+    },
+    "3": {
+      "item": "edenbound:perfectly_generic_object"
+    }
+  },
+  "result": {
+    "item": "edenbound:large_generic_object",
+    "count": 1
+  }
+}

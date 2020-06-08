@@ -1,0 +1,27 @@
+{
+  "group": "edenbound",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "edenbound:perfectly_generic_object"
+    },
+    "1": {
+      "item": "edenbound:perfectly_generic_object"
+    },
+    "3": {
+      "item": "edenbound:perfectly_generic_rod"
+    },
+    "5": {
+      "item": "edenbound:perfectly_generic_rod"
+    }
+  },
+  "result": {
+    "item": "edenbound:perfectly_generic_hoe",
+    "count": 1
+  }
+}

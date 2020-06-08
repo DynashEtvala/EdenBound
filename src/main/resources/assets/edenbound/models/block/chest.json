@@ -1,0 +1,8 @@
+{
+  "parent": "edenbound:custom/perfectly_generic_chest",
+  "textures": {
+    "all": "edenbound:blocks/chest_texture",
+    "particle": "edenbound:blocks/chest_texture",
+    "1": "edenbound:blocks/chest_texture"
+  }
+}

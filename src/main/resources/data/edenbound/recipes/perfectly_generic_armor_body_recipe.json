@@ -1,0 +1,39 @@
+{
+  "group": "edenbound",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "edenbound:perfectly_generic_object"
+    },
+    "2": {
+      "item": "edenbound:perfectly_generic_object"
+    },
+    "3": {
+      "item": "edenbound:perfectly_generic_object"
+    },
+    "4": {
+      "item": "edenbound:perfectly_generic_object"
+    },
+    "5": {
+      "item": "edenbound:perfectly_generic_object"
+    },
+    "6": {
+      "item": "edenbound:perfectly_generic_object"
+    },
+    "7": {
+      "item": "edenbound:perfectly_generic_object"
+    },
+    "8": {
+      "item": "edenbound:perfectly_generic_object"
+    }
+  },
+  "result": {
+    "item": "edenbound:perfectly_generic_armorbody",
+    "count": 1
+  }
+}

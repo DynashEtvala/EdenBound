@@ -1,0 +1,30 @@
+{
+  "group": "edenbound",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "edenbound:perfectly_generic_object"
+    },
+    "1": {
+      "item": "edenbound:perfectly_generic_object"
+    },
+    "2": {
+      "item": "edenbound:perfectly_generic_object"
+    },
+    "4": {
+      "item": "edenbound:perfectly_generic_rod"
+    },
+    "7": {
+      "item": "edenbound:perfectly_generic_rod"
+    }
+  },
+  "result": {
+    "item": "edenbound:perfectly_generic_pickaxe",
+    "count": 1
+  }
+}

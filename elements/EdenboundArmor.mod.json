@@ -1,0 +1,11 @@
+{
+  "_fv": 8,
+  "_type": "tab",
+  "definition": {
+    "name": "Edenbound Armor",
+    "icon": {
+      "value": "CUSTOM:PerfectlyGenericArmor.helmet"
+    },
+    "showSearch": false
+  }
+}

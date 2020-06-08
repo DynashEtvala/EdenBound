@@ -1,0 +1,277 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "LargeGenericObject",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "large_generic_object"
+    },
+    {
+      "name": "PerfectlyGenericObject",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "perfectly_generic_object"
+    },
+    {
+      "name": "EdenboundBlocks",
+      "type": "tab",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "edenbound_blocks"
+    },
+    {
+      "name": "EdenboundItems",
+      "type": "tab",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "edenbound_items"
+    },
+    {
+      "name": "PerfectlyGenericArmor",
+      "type": "armor",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "perfectly_generic_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "PerfectlyGenericArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "perfectly_generic_armor_helmet_recipe"
+    },
+    {
+      "name": "PerfectlyGenericArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "perfectly_generic_armor_body_recipe"
+    },
+    {
+      "name": "PerfectlyGenericArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "perfectly_generic_armor_leggings_recipe"
+    },
+    {
+      "name": "PerfectlyGenericArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "perfectly_generic_armor_boots_recipe"
+    },
+    {
+      "name": "LargeGenericObjectRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "large_generic_object_recipe"
+    },
+    {
+      "name": "PerfectlyGenericPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "perfectly_generic_pickaxe_recipe"
+    },
+    {
+      "name": "PerfectlyGenericAxeRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "perfectly_generic_axe_recipe"
+    },
+    {
+      "name": "PerfectlyGenericSwordRecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "perfectly_generic_sword_recipe"
+    },
+    {
+      "name": "PerfectlyGenericShovelRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "perfectly_generic_shovel_recipe"
+    },
+    {
+      "name": "PerfectlyGenericHoeRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "perfectly_generic_hoe_recipe"
+    },
+    {
+      "name": "EdenboundTools",
+      "type": "tab",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "edenbound_tools"
+    },
+    {
+      "name": "EdenboundArmor",
+      "type": "tab",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "edenbound_armor"
+    },
+    {
+      "name": "PerfectlyGenericRod",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "perfectly_generic_rod"
+    },
+    {
+      "name": "PerfectlyGenericPickaxe",
+      "type": "tool",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "perfectly_generic_pickaxe"
+    },
+    {
+      "name": "PerfectlyGenericAxe",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "perfectly_generic_axe"
+    },
+    {
+      "name": "PerfectlyGenericSword",
+      "type": "tool",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "perfectly_generic_sword"
+    },
+    {
+      "name": "PerfectlyGenericShovel",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "perfectly_generic_shovel"
+    },
+    {
+      "name": "PerfectlyGenericHoe",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "perfectly_generic_hoe"
+    },
+    {
+      "name": "PerfectlyGenericObjectRecipe",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "perfectly_generic_object_recipe"
+    },
+    {
+      "name": "Chest",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chest"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.edenbound.perfectly_generic_armorboots": "Perfectly Generic Boots",
+      "block.edenbound.large_generic_object": "Large Generic Object",
+      "itemGroup.tabedenbound_armor": "Edenbound Armor",
+      "item.edenbound.perfectly_generic_armorbody": "Perfectly Generic Chestplate",
+      "block.edenbound.chest": "Chest",
+      "item.edenbound.perfectly_generic_object": "Perfectly Generic Object",
+      "item.edenbound.perfectly_generic_shovel": "Perfectly Generic Shovel",
+      "item.edenbound.perfectly_generic_hoe": "Perfectly Generic Hoe",
+      "item.edenbound.perfectly_generic_armorlegs": "Perfectly Generic Leggings",
+      "itemGroup.tabedenbound_tools": "Edenbound Tools",
+      "item.edenbound.perfectly_generic_sword": "Perfectly Generic Sword",
+      "item.edenbound.perfectly_generic_rod": "Perfectly Generic Rod",
+      "item.edenbound.perfectly_generic_armorhelmet": "Perfectly Generic Helmet",
+      "itemGroup.tabedenbound_blocks": "Edenbound Blocks",
+      "item.edenbound.perfectly_generic_pickaxe": "Perfectly Generic Pickaxe",
+      "item.edenbound.perfectly_generic_axe": "Perfectly Generic Axe",
+      "itemGroup.tabedenbound_items": "Edenbound Items"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "edenbound",
+    "modName": "Edenbound",
+    "version": "1.0.0",
+    "author": "albri, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.dynashetvala.edenbound",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000322116
+}

@@ -1,0 +1,28 @@
+{
+  "_fv": 8,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "perfectly_generic_pickaxe",
+    "customModelName": "Normal",
+    "name": "Perfectly Generic Pickaxe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:EdenboundTools"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 3,
+    "efficiency": 9.0,
+    "attackSpeed": 1.0,
+    "enchantability": 50,
+    "damageVsEntity": 4.0,
+    "usageCount": 660,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:PerfectlyGenericObject"
+      }
+    ]
+  }
+}

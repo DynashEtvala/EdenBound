@@ -1,0 +1,11 @@
+{
+  "_fv": 8,
+  "_type": "tab",
+  "definition": {
+    "name": "Edenbound Tools",
+    "icon": {
+      "value": "CUSTOM:PerfectlyGenericPickaxe"
+    },
+    "showSearch": false
+  }
+}

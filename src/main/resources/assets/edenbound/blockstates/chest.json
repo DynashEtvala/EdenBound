@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "edenbound:block/chest"
+    },
+    "facing=east": {
+      "model": "edenbound:block/chest",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "edenbound:block/chest",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "edenbound:block/chest",
+      "y": 270
+    }
+  }
+}

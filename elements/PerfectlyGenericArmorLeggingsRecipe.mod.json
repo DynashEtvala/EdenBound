@@ -1,0 +1,46 @@
+{
+  "_fv": 8,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PerfectlyGenericObject"
+      },
+      {
+        "value": "CUSTOM:PerfectlyGenericObject"
+      },
+      {
+        "value": "CUSTOM:PerfectlyGenericObject"
+      },
+      {
+        "value": "CUSTOM:PerfectlyGenericObject"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PerfectlyGenericObject"
+      },
+      {
+        "value": "CUSTOM:PerfectlyGenericObject"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PerfectlyGenericObject"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PerfectlyGenericArmor.legs"
+    },
+    "name": "perfectly_generic_armor_leggings_recipe",
+    "namespace": "mod"
+  }
+}

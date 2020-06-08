@@ -1,0 +1,51 @@
+{
+  "_fv": 8,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "perfectly_generic_helmet",
+    "enableBody": true,
+    "textureBody": "perfectly_generic_chestplate",
+    "enableLeggings": true,
+    "textureLeggings": "perfectly_generic_leggings",
+    "enableBoots": true,
+    "textureBoots": "perfectly_generic_boots",
+    "creativeTab": {
+      "value": "CUSTOM:EdenboundArmor"
+    },
+    "armorTextureFile": "perfectlygeneric",
+    "helmetName": "Perfectly Generic Helmet",
+    "bodyName": "Perfectly Generic Chestplate",
+    "leggingsName": "Perfectly Generic Leggings",
+    "bootsName": "Perfectly Generic Boots",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 30,
+    "damageValueHelmet": 4,
+    "damageValueBody": 10,
+    "damageValueLeggings": 12,
+    "damageValueBoots": 4,
+    "enchantability": 18,
+    "toughness": 5.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:PerfectlyGenericObject"
+      }
+    ]
+  }
+}
