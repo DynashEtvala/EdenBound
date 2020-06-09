@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "edenbound:blocks/large_generic_object",
+    "particle": "edenbound:blocks/large_generic_object"
+  }
+}

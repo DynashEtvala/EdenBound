@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "edenbound:block/perfectly_generic_block"
+    }
+  }
+}

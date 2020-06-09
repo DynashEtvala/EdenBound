@@ -1,0 +1,9 @@
+{
+  "group": "edenbound",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "edenbound:perfectly_generic_block"
+  },
+  "result": "edenbound:perfectly_generic_stairs"
+}

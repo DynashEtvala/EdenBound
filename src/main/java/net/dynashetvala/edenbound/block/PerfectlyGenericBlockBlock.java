@@ -24,11 +24,11 @@ import java.util.List;
 import java.util.Collections;
 
 @EdenboundModElements.ModElement.Tag
-public class LargeGenericObjectBlock extends EdenboundModElements.ModElement {
-	@ObjectHolder("edenbound:large_generic_object")
+public class PerfectlyGenericBlockBlock extends EdenboundModElements.ModElement {
+	@ObjectHolder("edenbound:perfectly_generic_block")
 	public static final Block block = null;
-	public LargeGenericObjectBlock(EdenboundModElements instance) {
-		super(instance, 1);
+	public PerfectlyGenericBlockBlock(EdenboundModElements instance) {
+		super(instance, 32);
 	}
 
 	@Override
@@ -41,7 +41,7 @@ public class LargeGenericObjectBlock extends EdenboundModElements.ModElement {
 		public CustomBlock() {
 			super(Block.Properties.create(Material.IRON).sound(SoundType.STONE).hardnessAndResistance(1f, 10f).lightValue(0).harvestLevel(1)
 					.harvestTool(ToolType.PICKAXE));
-			setRegistryName("large_generic_object");
+			setRegistryName("perfectly_generic_block");
 		}
 
 		@Override

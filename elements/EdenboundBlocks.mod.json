@@ -4,7 +4,7 @@
   "definition": {
     "name": "Edenbound Blocks",
     "icon": {
-      "value": "CUSTOM:LargeGenericObject"
+      "value": "CUSTOM:PerfectlyGenericBlock"
     },
     "showSearch": false
   }

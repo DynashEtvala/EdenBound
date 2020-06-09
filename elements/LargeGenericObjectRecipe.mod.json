@@ -38,7 +38,7 @@
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:LargeGenericObject"
+      "value": "CUSTOM:PerfectlyGenericBlock"
     },
     "name": "large_generic_object_recipe",
     "namespace": "mod"

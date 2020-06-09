@@ -1,0 +1,50 @@
+{
+  "_fv": 8,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "dynash_head",
+    "enableBody": true,
+    "textureBody": "dynash_body",
+    "enableLeggings": true,
+    "textureLeggings": "dynash_leggings",
+    "enableBoots": true,
+    "textureBoots": "dynash_boots",
+    "onLeggingsTick": {
+      "name": "DynashArmorLeggingsTickEvent"
+    },
+    "creativeTab": {
+      "value": "CUSTOM:EdenboundArmor"
+    },
+    "armorTextureFile": "dynash",
+    "helmetName": "Dynash Helmet",
+    "bodyName": "Dynash Chestplate",
+    "leggingsName": "Dynash Leggings",
+    "bootsName": "Dynash Boots",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 30,
+    "damageValueHelmet": 4,
+    "damageValueBody": 10,
+    "damageValueLeggings": 12,
+    "damageValueBoots": 4,
+    "enchantability": 20,
+    "toughness": 5.0,
+    "equipSound": {
+      "value": "item.armor.equip_generic"
+    },
+    "repairItems": []
+  }
+}

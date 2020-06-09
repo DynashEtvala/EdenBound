@@ -7,7 +7,7 @@ import net.minecraftforge.api.distmarker.Dist;
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.ItemGroup;
 
-import net.dynashetvala.edenbound.block.LargeGenericObjectBlock;
+import net.dynashetvala.edenbound.block.PerfectlyGenericBlockBlock;
 import net.dynashetvala.edenbound.EdenboundModElements;
 
 @EdenboundModElements.ModElement.Tag
@@ -22,7 +22,7 @@ public class EdenboundBlocksItemGroup extends EdenboundModElements.ModElement {
 			@OnlyIn(Dist.CLIENT)
 			@Override
 			public ItemStack createIcon() {
-				return new ItemStack(LargeGenericObjectBlock.block, (int) (1));
+				return new ItemStack(PerfectlyGenericBlockBlock.block, (int) (1));
 			}
 
 			@OnlyIn(Dist.CLIENT)

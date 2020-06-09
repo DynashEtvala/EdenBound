@@ -1,5 +1,5 @@
 {
-  "parent": "edenbound:block/large_generic_object",
+  "parent": "edenbound:block/perfectly_generic_block",
   "display": {
     "thirdperson": {
       "rotation": [
