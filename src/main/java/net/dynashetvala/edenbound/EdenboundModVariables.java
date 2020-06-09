@@ -17,6 +17,7 @@ import java.util.function.Supplier;
 public class EdenboundModVariables {
 	public static class WorldVariables extends WorldSavedData {
 		public static final String DATA_NAME = "edenbound_worldvars";
+		public double InitialSaveSlotCount = 1.0;
 		public WorldVariables() {
 			super(DATA_NAME);
 		}
@@ -27,10 +28,12 @@ public class EdenboundModVariables {
 
 		@Override
 		public void read(CompoundNBT nbt) {
+			InitialSaveSlotCount = nbt.getDouble("InitialSaveSlotCount");
 		}
 
 		@Override
 		public CompoundNBT write(CompoundNBT nbt) {
+			nbt.putDouble("InitialSaveSlotCount", InitialSaveSlotCount);
 			return nbt;
 		}
 

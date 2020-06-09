@@ -344,35 +344,104 @@
           }
         ]
       }
+    },
+    {
+      "name": "GenericlyAchieved",
+      "type": "achievement",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "genericly_achieved"
+    },
+    {
+      "name": "ClasspectMenu",
+      "type": "keybind",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "classpect_menu"
+    },
+    {
+      "name": "EdenboundPlayerInit",
+      "type": "procedure",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "edenbound_player_init",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "NewSaveGUI",
+      "type": "gui",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "new_save_gui"
+    },
+    {
+      "name": "SaveSlot",
+      "type": "item",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "save_slot"
     }
   ],
-  "variable_elements": [],
+  "variable_elements": [
+    {
+      "name": "InitialSaveSlotCount",
+      "type": "number",
+      "scope": "world",
+      "value": "1.0"
+    }
+  ],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.edenbound.perfectly_generic_armorboots": "Perfectly Generic Boots",
-      "itemGroup.tabedenbound_armor": "Edenbound Armor",
+      "key.mcreator.classpect_menu": "Classpect Menu",
       "block.edenbound.perfectly_generic_stairs": "Perfectly Generic Stairs",
-      "item.edenbound.perfectly_generic_armorbody": "Perfectly Generic Chestplate",
       "block.edenbound.perfectly_generic_slab": "Perfectly Generic Slab",
       "item.edenbound.perfectly_generic_object": "Perfectly Generic Object",
       "item.edenbound.perfectly_generic_shovel": "Perfectly Generic Shovel",
       "item.edenbound.dynash_armorhelmet": "Dynash Helmet",
       "item.edenbound.perfectly_generic_hoe": "Perfectly Generic Hoe",
+      "key.entries.edenbound": "Edenbound",
+      "item.edenbound.dynash_armorbody": "Dynash Chestplate",
+      "block.edenbound.perfectly_generic_ore": "PerfectlyGeneric Ore",
+      "item.edenbound.dynash_armorboots": "Dynash Boots",
+      "advancements.genericly_achieved.title": "Genericly Achieved",
+      "itemGroup.tabedenbound_items": "Edenbound Items",
+      "advancements.genericly_achieved.descr": "Obtain a Perfectly Generic Object",
+      "item.edenbound.perfectly_generic_armorboots": "Perfectly Generic Boots",
+      "itemGroup.tabedenbound_armor": "Edenbound Armor",
+      "item.edenbound.perfectly_generic_armorbody": "Perfectly Generic Chestplate",
       "item.edenbound.perfectly_generic_armorlegs": "Perfectly Generic Leggings",
       "itemGroup.tabedenbound_tools": "Edenbound Tools",
       "item.edenbound.perfectly_generic_sword": "Perfectly Generic Sword",
-      "item.edenbound.dynash_armorbody": "Dynash Chestplate",
+      "item.edenbound.save_slot": "Save Slot",
       "item.edenbound.perfectly_generic_rod": "Perfectly Generic Rod",
       "item.edenbound.perfectly_generic_armorhelmet": "Perfectly Generic Helmet",
       "itemGroup.tabedenbound_blocks": "Edenbound Blocks",
       "item.edenbound.perfectly_generic_pickaxe": "Perfectly Generic Pickaxe",
-      "block.edenbound.perfectly_generic_ore": "PerfectlyGeneric Ore",
       "item.edenbound.dynash_armorlegs": "Dynash Leggings",
-      "item.edenbound.dynash_armorboots": "Dynash Boots",
       "item.edenbound.perfectly_generic_axe": "Perfectly Generic Axe",
-      "block.edenbound.perfectly_generic_block": "Perfectly Generic Block",
-      "itemGroup.tabedenbound_items": "Edenbound Items"
+      "block.edenbound.perfectly_generic_block": "Perfectly Generic Block"
     }
   },
   "workspaceSettings": {

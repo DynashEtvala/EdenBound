@@ -1,0 +1,9 @@
+{
+  "_fv": 8,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "C",
+    "keyBindingName": "Classpect Menu",
+    "keyBindingCategoryKey": "edenbound"
+  }
+}

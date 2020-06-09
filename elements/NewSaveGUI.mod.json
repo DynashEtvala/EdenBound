@@ -1,0 +1,60 @@
+{
+  "_fv": 8,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 358,
+    "height": 332,
+    "renderBgLayer": true,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "New Character",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "New Character",
+          "x": 264,
+          "y": 78
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Submit",
+          "width": 120,
+          "height": 40,
+          "name": "Submit",
+          "x": 462,
+          "y": 348
+        }
+      },
+      {
+        "type": "textfield",
+        "data": {
+          "placeholder": "",
+          "width": 240,
+          "height": 40,
+          "name": "CharacterName",
+          "x": 264,
+          "y": 132
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Character Name",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "Character Name",
+          "x": 264,
+          "y": 114
+        }
+      }
+    ]
+  }
+}
